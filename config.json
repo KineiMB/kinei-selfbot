@@ -1,0 +1,11 @@
+{
+  "token": "Token-Here",
+  "prefix":"x",
+  "password":"Dont-Put-A-Password",
+
+  "tts_language":"en",
+  "nitro_sniper":false,
+
+  "stream_url":"https://twitch.tv/stopmakingloggers",
+  "giveaway_sniper":false,
+}
